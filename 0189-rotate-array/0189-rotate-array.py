@@ -6,9 +6,13 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        new_nums=[0]*n
-        for i in range(0,n):
-            new_nums[(i+k)%n]=nums[i]
-        nums[:]=new_nums
+        k=k%n
+        def reverse(left,right):
+            while left<right:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+                right-=1
+        reverse(0,n-1)
+        reverse(0,k-1)
+        reverse(k,n-1)
         return nums
-        
