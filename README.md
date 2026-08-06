@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
+| [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
