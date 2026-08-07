@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
+| [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
