@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
