@@ -19,9 +19,9 @@ class Solution(object):
             path+=str(node.val)
             if not node.left and not node.right:
                 res.append(path)
-
             dfs(node.left,path)
             dfs(node.right,path)
         dfs(root,"")
         return res
+
         
