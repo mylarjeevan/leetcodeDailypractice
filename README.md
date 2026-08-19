@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
