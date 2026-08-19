@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
 | [2643-row-with-maximum-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2643-row-with-maximum-ones) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
