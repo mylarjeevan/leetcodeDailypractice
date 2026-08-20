@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
