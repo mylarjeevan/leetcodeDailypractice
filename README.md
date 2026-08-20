@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
