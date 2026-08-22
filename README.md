@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
