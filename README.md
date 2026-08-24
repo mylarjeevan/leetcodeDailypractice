@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
