@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
+| [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
+| [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
+| [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
