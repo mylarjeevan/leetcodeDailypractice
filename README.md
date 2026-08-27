@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
+| [0941-valid-mountain-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
