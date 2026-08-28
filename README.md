@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
