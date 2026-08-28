@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
