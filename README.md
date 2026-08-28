@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1907-count-salary-categories](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
