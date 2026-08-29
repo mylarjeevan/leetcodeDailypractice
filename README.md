@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0441-arranging-coins) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
 ## Greedy
