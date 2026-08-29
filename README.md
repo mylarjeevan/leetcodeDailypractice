@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0547-number-of-provinces) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
