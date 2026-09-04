@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
