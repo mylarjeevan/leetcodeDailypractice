@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -400,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0173-binary-search-tree-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
