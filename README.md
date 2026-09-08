@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1907-count-salary-categories](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1907-count-salary-categories) |
 ## Minimax
 |  |
