@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
