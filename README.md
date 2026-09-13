@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 ## String Matching
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
