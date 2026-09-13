@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0941-valid-mountain-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
+| [0835-image-overlap](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
