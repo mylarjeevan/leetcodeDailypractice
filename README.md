@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
