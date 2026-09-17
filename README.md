@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0441-arranging-coins) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0983-minimum-cost-for-tickets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
 ## Matrix
 |  |
