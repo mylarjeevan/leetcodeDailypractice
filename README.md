@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
