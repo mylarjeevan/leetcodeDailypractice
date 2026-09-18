@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
