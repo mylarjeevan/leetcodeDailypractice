@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
