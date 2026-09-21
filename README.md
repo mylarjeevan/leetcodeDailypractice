@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3524-find-x-value-of-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3731-find-missing-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3875-construct-uniform-parity-array-i) |
