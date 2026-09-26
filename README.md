@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
