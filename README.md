@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
@@ -322,12 +323,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
