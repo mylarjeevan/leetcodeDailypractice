@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2498-frog-jump-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2498-frog-jump-ii) |
 | [2643-row-with-maximum-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2643-row-with-maximum-ones) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2951-find-the-peaks](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
