@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0485-max-consecutive-ones) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -598,4 +604,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
