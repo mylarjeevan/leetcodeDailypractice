@@ -7,7 +7,8 @@ class Solution(object):
         freq={}
         for x in nums:
             freq[x]=freq.get(x,0)+1
-        for i,x in enumerate(nums):
+        for i,x in enumerate(freq):
             if freq[x]>len(nums)//2:
-                return x 
+                return x
+
         
