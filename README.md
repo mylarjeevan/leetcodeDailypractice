@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Queue
@@ -580,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
