@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
