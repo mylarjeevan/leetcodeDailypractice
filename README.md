@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1652-defuse-the-bomb](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0983-minimum-cost-for-tickets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3525-find-x-value-of-array-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -492,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -513,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -523,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -584,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
@@ -615,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
