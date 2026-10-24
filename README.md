@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0217-contains-duplicate) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0299-bulls-and-cows) |
@@ -656,4 +661,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
