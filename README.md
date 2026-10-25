@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
