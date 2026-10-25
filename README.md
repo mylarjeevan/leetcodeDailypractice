@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0596-classes-with-at-least-5-students) |
 | [1321-restaurant-growth](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1321-restaurant-growth) |
 | [1407-top-travellers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1484-group-sold-products-by-the-date) |
