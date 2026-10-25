@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2716-minimize-string-length](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2716-minimize-string-length) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2409-count-days-spent-together) |
+| [2716-minimize-string-length](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3863-minimum-operations-to-sort-a-string) |
