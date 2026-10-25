@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0771-jewels-and-stones) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0645-set-mismatch) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
