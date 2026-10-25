@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1189-maximum-number-of-balloons) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
