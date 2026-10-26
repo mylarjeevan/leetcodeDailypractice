@@ -9,10 +9,24 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: int
         """
-        val=""
+        
+        def converter(number):
+            ans=0
+            if number==0:
+                return ans
+            i=0
+            while number>0:
+                a=number%10
+                ans+=a*(2**i)
+                i+=1
+                number=number//10
+            return ans
+            
+            
+        val=0
         temp=head
         while temp is not None:
-            val+=str(temp.val)
+            val=val*10+temp.val
             temp=temp.next
-        return int(val,2)
+        return converter(val)
         
