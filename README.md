@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
