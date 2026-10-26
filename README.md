@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0202-happy-number) |
