@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0511-game-play-analysis-i) |
+| [0585-investments-in-2016](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/0607-sales-person) |
