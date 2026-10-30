@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1321-restaurant-growth) |
 | [1407-top-travellers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1484-group-sold-products-by-the-date) |
+| [1729-find-followers-count](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1729-find-followers-count) |
 | [1907-count-salary-categories](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/1907-count-salary-categories) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/mylarjeevan/leetcodeDailypractice/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Minimax
